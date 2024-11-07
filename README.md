@@ -28,4 +28,6 @@
      - Jika respon sukses, aplikasi akan menampilkan halaman dengan tulisan "Selamat datang tes" dan tombol logout.
        - Aplikasi dapat menyimpan token autentikasi atau data pengguna lainnya untuk digunakan dalam interaksi selanjutnya.
      - Jika respon gagal, aplikasi akan menampilkan notifikasi bahwa "username atau password salah"
-
+       
+### Screenshoot Aplikasi :
+![Screenshot Halaman Utama](assets/cobalogin.png)
